@@ -5,10 +5,10 @@ Website ini menampilkan informasi singkat tentang saya, hobi, tujuan, dan media 
 
 ## 🚀 Demo
 🔗 [Klik di sini untuk melihat website](https://nurul-safika.github.io/web-profile-nurul/)  
-*(ganti `username` dengan username GitHub kamu)*
+
 
 ## 📷 Preview
-![Preview Website](Screenshot(154).png)  
+![Preview Website](Screenshot.png)  
 
 ## 📁 Struktur Folder
 
