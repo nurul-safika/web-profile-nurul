@@ -8,7 +8,7 @@ Website ini menampilkan informasi singkat tentang saya, hobi, tujuan, dan media 
 *(ganti `username` dengan username GitHub kamu)*
 
 ## 📷 Preview
-![Preview Website](Screenshot (154).png)  
+![Preview Website](Screenshot(154).png)  
 
 ## 📁 Struktur Folder
 
@@ -21,8 +21,8 @@ Website ini menampilkan informasi singkat tentang saya, hobi, tujuan, dan media 
 - Responsif untuk desktop & mobile
 
 ## 🛠️ Teknologi yang digunakan
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## 📩 Kontak
 Jika ingin terhubung dengan saya, bisa melalui:
